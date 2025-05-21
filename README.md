@@ -4,10 +4,10 @@ Calculadora simples, com interface gráfica em Python para operações básicas 
 Uma calculadora completa desenvolvida em Python com interface gráfica utilizando Tkinter. Este projeto oferece uma experiência de usuário intuitiva com suporte a operações matemáticas básicas e histórico de cálculos.
 
 # Funcionalidades Principais
--Operações básicas: adição (+), subtração (-), multiplicação (*) e divisão (/)
--📋 Histórico de operações
--⌨️ Suporte a teclado
--🔄 Botão para limpar histórico
+**Operações básicas:** adição (+), subtração (-), multiplicação (*) e divisão (/)
+**📋 Histórico de operações**
+**⌨️ Suporte a teclado**
+**🔄 Botão para limpar histórico**
 
 # Conceitos de Python Utilizados
 # 1. Programação Orientada a Objetos (POO)
